@@ -35,7 +35,7 @@ streamlit run app.py
 
 **Printscreens do app em execução:**
 
-![Tela inicial do app](crud-streamlit-mysql)
+![Tela inicial do app](https://github.com/daniballester-ai/streamlit-crud-mysql/blob/main/crud-streamlit-mysql.jpg)
 
 **Recursos:**
 
